@@ -13,7 +13,7 @@ const Clock = () => {
   }, []);
 
   return (
-    <div style={{color:"white"}}>
+    <div style={{color:"#F58B1B"}}>
        
       <h1 style={{ margin: "80px" }}>DİGİTAL CLOCK</h1>
       <h2
